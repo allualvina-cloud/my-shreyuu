@@ -50,7 +50,6 @@ const Letter = ({ onMoreSurprises, onBack }) => {
 "My heart chose you, and it keeps choosing you every single day.",
 "",
 "I love you more than words can ever fully express.",
-"Forever yours,",
 ], []);
 
 
