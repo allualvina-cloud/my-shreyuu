@@ -51,9 +51,6 @@ const letterContent = useMemo(() => [
   "",
   "I love you more than words can ever fully express.",
 ], []);
-
-
-
   const typingTimeoutRef = useRef(null);
 
   /* ⏳ Delay before typing */
